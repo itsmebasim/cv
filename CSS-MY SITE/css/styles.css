@@ -1,0 +1,42 @@
+body{
+  
+  margin: 0;
+  text-align: center;
+}
+
+
+
+span{
+  text-decoration: underline;
+
+}
+
+h1{
+  font-size: 40px ;
+  font-family: cursive;
+
+}
+
+.top{
+   position: relative;
+   padding-top: 100px ;
+   background-color: powderblue ;
+}
+
+
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 300px
+}
+.chippic{  width: 200px ;
+
+}
+.game{
+  width: 200px ;
+}
